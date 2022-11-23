@@ -2,7 +2,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/bulat77785/bukat77785/" target="_blank">Bulat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm student 21 school currently learning Devops and C</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bulat77785)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bulat77785"/>
+
 <!--
 **bulat77785/bulat77785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
